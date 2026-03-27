@@ -3,7 +3,7 @@ Men of Valor (2004)
 Permissions & Credits
 
 Usage of Assets Code (UnrealScript): All .uc files and compiled script packages are licensed under the GNU GPL v3. You are free to study, modify, and redistribute this code, provided you keep the source open and credit the original authors.
-Art Assets (Maps, Textures, Models): Unless otherwise stated, the custom visual and audio assets included in this mod are provided for use within the SWAT 4 engine only.
+Art Assets (Maps, Textures, Models): Unless otherwise stated, the custom visual and audio assets included in this mod are provided for use within the Men of Valor engine only.
 
 Commercial Use: Under no circumstances may this mod or its assets be sold or used in commercial products.
 
